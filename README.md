@@ -1,4 +1,5 @@
 # Recycling Production Line Manager Selection System
+<img width="1549" height="1209" alt="image" src="https://github.com/user-attachments/assets/6a757edd-b1dd-44d3-8738-82ef57899a4c" />
 
 **Repository Description:**
 A comprehensive candidate selection and ranking system for a Recycling Production Line Manager role, featuring a MySQL-backed database schema with auto-ranking triggers, detailed AI evaluation prompts with scoring rubrics, and an interactive React 19 + Mantine 8 dashboard.
