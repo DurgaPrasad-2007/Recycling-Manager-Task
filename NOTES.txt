@@ -1,0 +1,21 @@
+DEVELOPMENT NOTES
+
+ARCHITECTURE OVERVIEW
+- Core: React 19 + TypeScript
+- UI Framework: Mantine v8
+- Build Tool: Vite 6
+- Database: MySQL (schema/seeds in /database)
+
+DESIGN DECISIONS
+- Sustainability Theme: High-contrast dark theme with green accents.
+- Data Management: Candidate data is in src/data/candidates.json.
+
+DEVELOPMENT WORKFLOW
+- Dependency Management: Use pnpm.
+- Linting: ESLint for React/TS.
+- Styling: Global styles in src/styles.css.
+
+FUTURE ENHANCEMENTS
+- Real-time database connection.
+- Advanced candidate analytics.
+- Multi-stage interview tracking.
