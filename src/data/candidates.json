@@ -1,0 +1,1574 @@
+[
+    {
+        "id": 1,
+        "name": "Marcus Chen",
+        "email": "marcus.chen@gmail.com",
+        "phone": "(555) 234-8901",
+        "yearsExperience": 18,
+        "educationLevel": "Master",
+        "certifications": [
+            "ISO 14001",
+            "OSHA 30-Hour",
+            "Six Sigma Green Belt"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 5
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 5
+            },
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            }
+        ],
+        "summary": "Seasoned operations manager with extensive background in sustainable manufacturing. Led multiple facility certifications and process improvement initiatives.",
+        "evaluation": {
+            "candidateId": 1,
+            "crisisManagementScore": 92.45,
+            "sustainabilityScore": 88.72,
+            "teamMotivationScore": 85.30
+        },
+        "totalScore": 89.00,
+        "rank": 1
+    },
+    {
+        "id": 2,
+        "name": "Sarah Rodriguez",
+        "email": "s.rodriguez@outlook.com",
+        "phone": "(555) 345-6789",
+        "yearsExperience": 15,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "LEED Green Associate",
+            "Certified Recycling Professional",
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 5
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 5
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Environmental specialist focused on circular economy principles. Strong track record of improving material recovery rates.",
+        "evaluation": {
+            "candidateId": 2,
+            "crisisManagementScore": 85.30,
+            "sustainabilityScore": 94.15,
+            "teamMotivationScore": 81.20
+        },
+        "totalScore": 86.67,
+        "rank": 2
+    },
+    {
+        "id": 3,
+        "name": "James Morrison",
+        "email": "james.morrison@yahoo.com",
+        "phone": "(555) 456-7890",
+        "yearsExperience": 22,
+        "educationLevel": "PhD",
+        "certifications": [
+            "ISO 14001",
+            "EPA Lead-Safe Certification",
+            "Six Sigma Green Belt",
+            "Hazmat Handler Certification"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 5
+            },
+            {
+                "name": "Hazardous Waste Handling",
+                "proficiency": 5
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 5
+            }
+        ],
+        "summary": "Research-focused leader with deep expertise in waste stream optimization. Published multiple papers on recycling technology.",
+        "evaluation": {
+            "candidateId": 3,
+            "crisisManagementScore": 88.60,
+            "sustainabilityScore": 91.25,
+            "teamMotivationScore": 78.40
+        },
+        "totalScore": 86.47,
+        "rank": 3
+    },
+    {
+        "id": 4,
+        "name": "Linda Okonkwo",
+        "email": "linda.okonkwo@gmail.com",
+        "phone": "(555) 567-8901",
+        "yearsExperience": 12,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "OSHA 30-Hour",
+            "First Aid/CPR",
+            "Forklift Operator"
+        ],
+        "skills": [
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 5
+            },
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 4
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Safety-first manager with zero incident record over 8 years. Strong communicator and team builder.",
+        "evaluation": {
+            "candidateId": 4,
+            "crisisManagementScore": 91.80,
+            "sustainabilityScore": 79.45,
+            "teamMotivationScore": 88.60
+        },
+        "totalScore": 86.52,
+        "rank": 4
+    },
+    {
+        "id": 5,
+        "name": "Ahmed Hassan",
+        "email": "a.hassan@proton.me",
+        "phone": "(555) 678-9012",
+        "yearsExperience": 16,
+        "educationLevel": "Master",
+        "certifications": [
+            "LEED Green Associate",
+            "ISO 14001",
+            "Certified Recycling Professional"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 5
+            },
+            {
+                "name": "Supply Chain Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 5
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Operations expert specializing in maximizing recovery rates while minimizing costs. Implemented AI-driven sorting systems.",
+        "evaluation": {
+            "candidateId": 5,
+            "crisisManagementScore": 82.90,
+            "sustainabilityScore": 89.30,
+            "teamMotivationScore": 84.50
+        },
+        "totalScore": 85.62,
+        "rank": 5
+    },
+    {
+        "id": 6,
+        "name": "Emily Watson",
+        "email": "emily.watson@icloud.com",
+        "phone": "(555) 789-0123",
+        "yearsExperience": 9,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "SWANA Certification",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 5
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Rising star in recycling operations. Known for innovative problem-solving and strong analytical skills.",
+        "evaluation": {
+            "candidateId": 6,
+            "crisisManagementScore": 79.85,
+            "sustainabilityScore": 86.40,
+            "teamMotivationScore": 89.20
+        },
+        "totalScore": 84.95,
+        "rank": 6
+    },
+    {
+        "id": 7,
+        "name": "Robert Kim",
+        "email": "r.kim@gmail.com",
+        "phone": "(555) 890-1234",
+        "yearsExperience": 20,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "ISO 14001",
+            "OSHA 30-Hour",
+            "Six Sigma Green Belt",
+            "Certified Recycling Professional"
+        ],
+        "skills": [
+            {
+                "name": "Lean Manufacturing",
+                "proficiency": 5
+            },
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 5
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Veteran operations manager with deep expertise in lean principles. Reduced processing costs by 30% at previous facility.",
+        "evaluation": {
+            "candidateId": 7,
+            "crisisManagementScore": 86.70,
+            "sustainabilityScore": 82.15,
+            "teamMotivationScore": 83.40
+        },
+        "totalScore": 84.12,
+        "rank": 7
+    },
+    {
+        "id": 8,
+        "name": "Priya Sharma",
+        "email": "priya.sharma@outlook.com",
+        "phone": "(555) 901-2345",
+        "yearsExperience": 11,
+        "educationLevel": "Master",
+        "certifications": [
+            "LEED Green Associate",
+            "EPA Lead-Safe Certification"
+        ],
+        "skills": [
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 5
+            },
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 5
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Sustainability advocate with strong data analytics background. Developed predictive models for waste stream forecasting.",
+        "evaluation": {
+            "candidateId": 8,
+            "crisisManagementScore": 76.30,
+            "sustainabilityScore": 92.85,
+            "teamMotivationScore": 80.10
+        },
+        "totalScore": 83.23,
+        "rank": 8
+    },
+    {
+        "id": 9,
+        "name": "Michael Thompson",
+        "email": "m.thompson@yahoo.com",
+        "phone": "(555) 012-3456",
+        "yearsExperience": 14,
+        "educationLevel": "Associate",
+        "certifications": [
+            "Forklift Operator",
+            "OSHA 30-Hour",
+            "Hazmat Handler Certification"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Hands-on manager who leads by example. Strong mechanical aptitude and safety record.",
+        "evaluation": {
+            "candidateId": 9,
+            "crisisManagementScore": 88.25,
+            "sustainabilityScore": 75.60,
+            "teamMotivationScore": 84.90
+        },
+        "totalScore": 82.82,
+        "rank": 9
+    },
+    {
+        "id": 10,
+        "name": "Jennifer Park",
+        "email": "j.park@gmail.com",
+        "phone": "(555) 123-4567",
+        "yearsExperience": 8,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "Certified Recycling Professional",
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 5
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Detail-oriented professional with expertise in quality assurance. Improved contamination rates significantly.",
+        "evaluation": {
+            "candidateId": 10,
+            "crisisManagementScore": 78.90,
+            "sustainabilityScore": 84.70,
+            "teamMotivationScore": 82.35
+        },
+        "totalScore": 81.97,
+        "rank": 10
+    },
+    {
+        "id": 11,
+        "name": "David Nguyen",
+        "email": "david.nguyen@proton.me",
+        "phone": "(555) 234-5678",
+        "yearsExperience": 13,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "ISO 14001",
+            "Six Sigma Green Belt"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 5
+            },
+            {
+                "name": "Lean Manufacturing",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 4
+            },
+            {
+                "name": "Supply Chain Management",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Process improvement specialist with proven track record. Implemented continuous improvement programs.",
+        "evaluation": {
+            "candidateId": 11,
+            "crisisManagementScore": 81.45,
+            "sustainabilityScore": 83.20,
+            "teamMotivationScore": 79.80
+        },
+        "totalScore": 81.57,
+        "rank": 11
+    },
+    {
+        "id": 12,
+        "name": "Rachel Green",
+        "email": "r.green@icloud.com",
+        "phone": "(555) 345-6780",
+        "yearsExperience": 7,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "LEED Green Associate",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            },
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Young leader with passion for environmental sustainability. Strong communicator and motivator.",
+        "evaluation": {
+            "candidateId": 12,
+            "crisisManagementScore": 75.60,
+            "sustainabilityScore": 88.90,
+            "teamMotivationScore": 78.25
+        },
+        "totalScore": 80.55,
+        "rank": 12
+    },
+    {
+        "id": 13,
+        "name": "Carlos Mendez",
+        "email": "c.mendez@gmail.com",
+        "phone": "(555) 456-7891",
+        "yearsExperience": 19,
+        "educationLevel": "Associate",
+        "certifications": [
+            "OSHA 30-Hour",
+            "Forklift Operator",
+            "Hazmat Handler Certification",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Hazardous Waste Handling",
+                "proficiency": 5
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Highly experienced field manager with impeccable safety record. 15+ years without lost-time incidents.",
+        "evaluation": {
+            "candidateId": 13,
+            "crisisManagementScore": 89.40,
+            "sustainabilityScore": 72.30,
+            "teamMotivationScore": 78.65
+        },
+        "totalScore": 80.19,
+        "rank": 13
+    },
+    {
+        "id": 14,
+        "name": "Anna Petrov",
+        "email": "anna.petrov@outlook.com",
+        "phone": "(555) 567-8902",
+        "yearsExperience": 10,
+        "educationLevel": "Master",
+        "certifications": [
+            "ISO 14001",
+            "Certified Recycling Professional"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 5
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Compliance expert with regulatory affairs experience. Ensured zero violations across multiple facilities.",
+        "evaluation": {
+            "candidateId": 14,
+            "crisisManagementScore": 77.85,
+            "sustainabilityScore": 86.40,
+            "teamMotivationScore": 74.30
+        },
+        "totalScore": 79.78,
+        "rank": 14
+    },
+    {
+        "id": 15,
+        "name": "William Brown",
+        "email": "w.brown@yahoo.com",
+        "phone": "(555) 678-9013",
+        "yearsExperience": 6,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 3
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Energetic professional eager to grow in the recycling industry. Quick learner with positive attitude.",
+        "evaluation": {
+            "candidateId": 15,
+            "crisisManagementScore": 73.20,
+            "sustainabilityScore": 82.50,
+            "teamMotivationScore": 81.70
+        },
+        "totalScore": 78.99,
+        "rank": 15
+    },
+    {
+        "id": 16,
+        "name": "Michelle Liu",
+        "email": "m.liu@gmail.com",
+        "phone": "(555) 789-0124",
+        "yearsExperience": 17,
+        "educationLevel": "PhD",
+        "certifications": [
+            "EPA Lead-Safe Certification",
+            "ISO 14001",
+            "LEED Green Associate"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 5
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 5
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 5
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Research scientist turned industry leader. Expert in emerging recycling technologies and policy.",
+        "evaluation": {
+            "candidateId": 16,
+            "crisisManagementScore": 72.45,
+            "sustainabilityScore": 94.80,
+            "teamMotivationScore": 68.90
+        },
+        "totalScore": 79.20,
+        "rank": 16
+    },
+    {
+        "id": 17,
+        "name": "Thomas Jackson",
+        "email": "t.jackson@proton.me",
+        "phone": "(555) 890-1235",
+        "yearsExperience": 5,
+        "educationLevel": "High School",
+        "certifications": [
+            "Forklift Operator",
+            "OSHA 30-Hour"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 4
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Hard-working team player moving into supervisory roles. Excellent hands-on skills.",
+        "evaluation": {
+            "candidateId": 17,
+            "crisisManagementScore": 76.80,
+            "sustainabilityScore": 71.25,
+            "teamMotivationScore": 82.40
+        },
+        "totalScore": 76.54,
+        "rank": 17
+    },
+    {
+        "id": 18,
+        "name": "Fatima Al-Rashid",
+        "email": "f.alrashid@icloud.com",
+        "phone": "(555) 901-2346",
+        "yearsExperience": 12,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "Six Sigma Green Belt",
+            "Certified Recycling Professional",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Balanced leader with strong operational and people skills. Known for building cohesive teams.",
+        "evaluation": {
+            "candidateId": 18,
+            "crisisManagementScore": 79.30,
+            "sustainabilityScore": 78.45,
+            "teamMotivationScore": 82.10
+        },
+        "totalScore": 79.84,
+        "rank": 18
+    },
+    {
+        "id": 19,
+        "name": "Christopher Lee",
+        "email": "c.lee@gmail.com",
+        "phone": "(555) 012-3457",
+        "yearsExperience": 21,
+        "educationLevel": "Master",
+        "certifications": [
+            "ISO 14001",
+            "LEED Green Associate",
+            "Six Sigma Green Belt",
+            "OSHA 30-Hour"
+        ],
+        "skills": [
+            {
+                "name": "Lean Manufacturing",
+                "proficiency": 5
+            },
+            {
+                "name": "Supply Chain Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 5
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 5
+            }
+        ],
+        "summary": "Senior executive with extensive corporate experience. Expert in large-scale operations management.",
+        "evaluation": {
+            "candidateId": 19,
+            "crisisManagementScore": 84.60,
+            "sustainabilityScore": 80.35,
+            "teamMotivationScore": 71.20
+        },
+        "totalScore": 79.09,
+        "rank": 19
+    },
+    {
+        "id": 20,
+        "name": "Olivia Martinez",
+        "email": "o.martinez@outlook.com",
+        "phone": "(555) 123-4568",
+        "yearsExperience": 4,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "SWANA Certification",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 3
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 3
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Recent graduate with internship experience at major recycling facilities. Eager and motivated.",
+        "evaluation": {
+            "candidateId": 20,
+            "crisisManagementScore": 68.90,
+            "sustainabilityScore": 79.25,
+            "teamMotivationScore": 76.40
+        },
+        "totalScore": 74.78,
+        "rank": 20
+    },
+    {
+        "id": 21,
+        "name": "Daniel Wright",
+        "email": "d.wright@yahoo.com",
+        "phone": "(555) 234-5679",
+        "yearsExperience": 15,
+        "educationLevel": "Associate",
+        "certifications": [
+            "Forklift Operator",
+            "Hazmat Handler Certification",
+            "OSHA 30-Hour"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Hazardous Waste Handling",
+                "proficiency": 4
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Reliable operations veteran with strong technical skills. Mentors junior staff effectively.",
+        "evaluation": {
+            "candidateId": 21,
+            "crisisManagementScore": 82.15,
+            "sustainabilityScore": 74.80,
+            "teamMotivationScore": 77.55
+        },
+        "totalScore": 78.19,
+        "rank": 21
+    },
+    {
+        "id": 22,
+        "name": "Sophia Anderson",
+        "email": "s.anderson@gmail.com",
+        "phone": "(555) 345-6791",
+        "yearsExperience": 9,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "LEED Green Associate",
+            "Certified Recycling Professional"
+        ],
+        "skills": [
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            },
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Sustainability-focused manager with growing industry recognition. Active in professional associations.",
+        "evaluation": {
+            "candidateId": 22,
+            "crisisManagementScore": 74.50,
+            "sustainabilityScore": 85.20,
+            "teamMotivationScore": 75.80
+        },
+        "totalScore": 78.63,
+        "rank": 22
+    },
+    {
+        "id": 23,
+        "name": "Kevin O'Brien",
+        "email": "k.obrien@proton.me",
+        "phone": "(555) 456-7892",
+        "yearsExperience": 11,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "ISO 14001",
+            "OSHA 30-Hour"
+        ],
+        "skills": [
+            {
+                "name": "Safety Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 3
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Dependable manager focused on consistent performance. Strong safety and quality track record.",
+        "evaluation": {
+            "candidateId": 23,
+            "crisisManagementScore": 80.25,
+            "sustainabilityScore": 76.90,
+            "teamMotivationScore": 79.45
+        },
+        "totalScore": 78.83,
+        "rank": 23
+    },
+    {
+        "id": 24,
+        "name": "Aisha Johnson",
+        "email": "a.johnson@icloud.com",
+        "phone": "(555) 567-8903",
+        "yearsExperience": 8,
+        "educationLevel": "Master",
+        "certifications": [
+            "Six Sigma Green Belt",
+            "LEED Green Associate"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 5
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Analytical leader with strong quantitative skills. Developed KPI dashboards for facility performance.",
+        "evaluation": {
+            "candidateId": 24,
+            "crisisManagementScore": 75.80,
+            "sustainabilityScore": 82.45,
+            "teamMotivationScore": 74.30
+        },
+        "totalScore": 77.68,
+        "rank": 24
+    },
+    {
+        "id": 25,
+        "name": "Brian Taylor",
+        "email": "b.taylor@gmail.com",
+        "phone": "(555) 678-9014",
+        "yearsExperience": 23,
+        "educationLevel": "High School",
+        "certifications": [
+            "Forklift Operator",
+            "OSHA 30-Hour",
+            "Hazmat Handler Certification",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 5
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Industry veteran who worked up from floor level. Exceptional practical knowledge and respect from staff.",
+        "evaluation": {
+            "candidateId": 25,
+            "crisisManagementScore": 86.90,
+            "sustainabilityScore": 68.40,
+            "teamMotivationScore": 81.25
+        },
+        "totalScore": 78.72,
+        "rank": 25
+    },
+    {
+        "id": 26,
+        "name": "Nicole Foster",
+        "email": "n.foster@outlook.com",
+        "phone": "(555) 789-0125",
+        "yearsExperience": 6,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "Certified Recycling Professional",
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 3
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Detail-oriented professional with focus on material identification and sorting accuracy.",
+        "evaluation": {
+            "candidateId": 26,
+            "crisisManagementScore": 72.35,
+            "sustainabilityScore": 80.90,
+            "teamMotivationScore": 76.20
+        },
+        "totalScore": 76.50,
+        "rank": 26
+    },
+    {
+        "id": 27,
+        "name": "Ryan Mitchell",
+        "email": "r.mitchell@yahoo.com",
+        "phone": "(555) 890-1236",
+        "yearsExperience": 14,
+        "educationLevel": "Associate",
+        "certifications": [
+            "ISO 14001",
+            "Forklift Operator"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 4
+            },
+            {
+                "name": "Lean Manufacturing",
+                "proficiency": 4
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Operations-focused manager with strong maintenance background. Reduced equipment downtime significantly.",
+        "evaluation": {
+            "candidateId": 27,
+            "crisisManagementScore": 79.60,
+            "sustainabilityScore": 75.30,
+            "teamMotivationScore": 77.85
+        },
+        "totalScore": 77.57,
+        "rank": 27
+    },
+    {
+        "id": 28,
+        "name": "Lisa Chang",
+        "email": "l.chang@gmail.com",
+        "phone": "(555) 901-2347",
+        "yearsExperience": 10,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "LEED Green Associate",
+            "EPA Lead-Safe Certification"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 5
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Environmental compliance specialist transitioning to operations management. Strong regulatory knowledge.",
+        "evaluation": {
+            "candidateId": 28,
+            "crisisManagementScore": 73.45,
+            "sustainabilityScore": 87.60,
+            "teamMotivationScore": 71.30
+        },
+        "totalScore": 77.75,
+        "rank": 28
+    },
+    {
+        "id": 29,
+        "name": "Steven Clark",
+        "email": "s.clark@proton.me",
+        "phone": "(555) 012-3458",
+        "yearsExperience": 7,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "OSHA 30-Hour",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Safety Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 3
+            },
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 3
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Safety-conscious supervisor building management skills. Reliable and consistent performer.",
+        "evaluation": {
+            "candidateId": 29,
+            "crisisManagementScore": 77.20,
+            "sustainabilityScore": 74.15,
+            "teamMotivationScore": 78.60
+        },
+        "totalScore": 76.55,
+        "rank": 29
+    },
+    {
+        "id": 30,
+        "name": "Amanda White",
+        "email": "a.white@icloud.com",
+        "phone": "(555) 123-4569",
+        "yearsExperience": 13,
+        "educationLevel": "Master",
+        "certifications": [
+            "Six Sigma Green Belt",
+            "ISO 14001",
+            "Certified Recycling Professional"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 5
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Lean Manufacturing",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Efficiency expert with MBA background. Implemented multiple successful cost reduction initiatives.",
+        "evaluation": {
+            "candidateId": 30,
+            "crisisManagementScore": 78.50,
+            "sustainabilityScore": 79.25,
+            "teamMotivationScore": 72.40
+        },
+        "totalScore": 76.98,
+        "rank": 30
+    },
+    {
+        "id": 31,
+        "name": "Jason Harris",
+        "email": "j.harris@gmail.com",
+        "phone": "(555) 234-5680",
+        "yearsExperience": 3,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 3
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 2
+            }
+        ],
+        "summary": "Entry-level professional with strong academic background. Quick learner seeking growth opportunities.",
+        "evaluation": {
+            "candidateId": 31,
+            "crisisManagementScore": 65.40,
+            "sustainabilityScore": 75.80,
+            "teamMotivationScore": 70.25
+        },
+        "totalScore": 70.49,
+        "rank": 31
+    },
+    {
+        "id": 32,
+        "name": "Maria Santos",
+        "email": "m.santos@outlook.com",
+        "phone": "(555) 345-6792",
+        "yearsExperience": 16,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "ISO 14001",
+            "LEED Green Associate",
+            "Hazmat Handler Certification"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Hazardous Waste Handling",
+                "proficiency": 5
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Hazmat specialist with strong compliance background. Expert in handling complex waste streams.",
+        "evaluation": {
+            "candidateId": 32,
+            "crisisManagementScore": 81.30,
+            "sustainabilityScore": 78.90,
+            "teamMotivationScore": 69.45
+        },
+        "totalScore": 76.91,
+        "rank": 32
+    },
+    {
+        "id": 33,
+        "name": "Eric Young",
+        "email": "e.young@yahoo.com",
+        "phone": "(555) 456-7893",
+        "yearsExperience": 9,
+        "educationLevel": "Associate",
+        "certifications": [
+            "Forklift Operator",
+            "OSHA 30-Hour"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 4
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 4
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 3
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Practical operator moving into supervisory role. Strong hands-on skills and work ethic.",
+        "evaluation": {
+            "candidateId": 33,
+            "crisisManagementScore": 74.85,
+            "sustainabilityScore": 72.40,
+            "teamMotivationScore": 76.90
+        },
+        "totalScore": 74.60,
+        "rank": 33
+    },
+    {
+        "id": 34,
+        "name": "Catherine Bell",
+        "email": "c.bell@gmail.com",
+        "phone": "(555) 567-8904",
+        "yearsExperience": 11,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "Certified Recycling Professional",
+            "Six Sigma Green Belt"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Quality-focused manager with strong analytical approach. Improved contamination rates at multiple facilities.",
+        "evaluation": {
+            "candidateId": 34,
+            "crisisManagementScore": 76.40,
+            "sustainabilityScore": 79.85,
+            "teamMotivationScore": 73.20
+        },
+        "totalScore": 76.64,
+        "rank": 34
+    },
+    {
+        "id": 35,
+        "name": "Patrick Moore",
+        "email": "p.moore@proton.me",
+        "phone": "(555) 678-9015",
+        "yearsExperience": 18,
+        "educationLevel": "Associate",
+        "certifications": [
+            "OSHA 30-Hour",
+            "Forklift Operator",
+            "First Aid/CPR",
+            "Hazmat Handler Certification"
+        ],
+        "skills": [
+            {
+                "name": "Safety Management",
+                "proficiency": 5
+            },
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            },
+            {
+                "name": "Hazardous Waste Handling",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Long-serving operations manager with excellent safety culture. Trusted leader on the floor.",
+        "evaluation": {
+            "candidateId": 35,
+            "crisisManagementScore": 84.25,
+            "sustainabilityScore": 70.60,
+            "teamMotivationScore": 79.30
+        },
+        "totalScore": 78.00,
+        "rank": 35
+    },
+    {
+        "id": 36,
+        "name": "Jessica Adams",
+        "email": "j.adams@icloud.com",
+        "phone": "(555) 789-0126",
+        "yearsExperience": 5,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "LEED Green Associate"
+        ],
+        "skills": [
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 3
+            },
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 3
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 3
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 2
+            }
+        ],
+        "summary": "Early-career professional with sustainability focus. Building experience in recycling operations.",
+        "evaluation": {
+            "candidateId": 36,
+            "crisisManagementScore": 68.75,
+            "sustainabilityScore": 78.40,
+            "teamMotivationScore": 72.15
+        },
+        "totalScore": 73.15,
+        "rank": 36
+    },
+    {
+        "id": 37,
+        "name": "Mark Robinson",
+        "email": "m.robinson@gmail.com",
+        "phone": "(555) 890-1237",
+        "yearsExperience": 12,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "ISO 14001",
+            "SWANA Certification"
+        ],
+        "skills": [
+            {
+                "name": "Environmental Compliance",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Process Optimization",
+                "proficiency": 3
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Compliance-oriented manager with systematic approach. Strong documentation and audit skills.",
+        "evaluation": {
+            "candidateId": 37,
+            "crisisManagementScore": 75.90,
+            "sustainabilityScore": 80.25,
+            "teamMotivationScore": 73.60
+        },
+        "totalScore": 76.73,
+        "rank": 37
+    },
+    {
+        "id": 38,
+        "name": "Laura King",
+        "email": "l.king@outlook.com",
+        "phone": "(555) 901-2348",
+        "yearsExperience": 8,
+        "educationLevel": "Master",
+        "certifications": [
+            "Six Sigma Green Belt",
+            "LEED Green Associate"
+        ],
+        "skills": [
+            {
+                "name": "Process Optimization",
+                "proficiency": 4
+            },
+            {
+                "name": "Data Analysis",
+                "proficiency": 4
+            },
+            {
+                "name": "Cost Reduction",
+                "proficiency": 4
+            },
+            {
+                "name": "Sustainability Planning",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Analytically-minded manager with focus on continuous improvement. Strong presentation skills.",
+        "evaluation": {
+            "candidateId": 38,
+            "crisisManagementScore": 74.30,
+            "sustainabilityScore": 81.50,
+            "teamMotivationScore": 75.85
+        },
+        "totalScore": 77.28,
+        "rank": 38
+    },
+    {
+        "id": 39,
+        "name": "George Turner",
+        "email": "g.turner@yahoo.com",
+        "phone": "(555) 012-3459",
+        "yearsExperience": 20,
+        "educationLevel": "High School",
+        "certifications": [
+            "Forklift Operator",
+            "OSHA 30-Hour",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Equipment Maintenance",
+                "proficiency": 5
+            },
+            {
+                "name": "Waste Sorting",
+                "proficiency": 5
+            },
+            {
+                "name": "Safety Management",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 4
+            }
+        ],
+        "summary": "Floor veteran with exceptional practical skills. Respected mentor to younger staff members.",
+        "evaluation": {
+            "candidateId": 39,
+            "crisisManagementScore": 82.60,
+            "sustainabilityScore": 67.90,
+            "teamMotivationScore": 80.45
+        },
+        "totalScore": 76.81,
+        "rank": 39
+    },
+    {
+        "id": 40,
+        "name": "Natalie Cooper",
+        "email": "n.cooper@gmail.com",
+        "phone": "(555) 123-4570",
+        "yearsExperience": 7,
+        "educationLevel": "Bachelor",
+        "certifications": [
+            "Certified Recycling Professional",
+            "First Aid/CPR"
+        ],
+        "skills": [
+            {
+                "name": "Material Recovery",
+                "proficiency": 4
+            },
+            {
+                "name": "Quality Control",
+                "proficiency": 4
+            },
+            {
+                "name": "Team Leadership",
+                "proficiency": 3
+            },
+            {
+                "name": "Inventory Management",
+                "proficiency": 3
+            }
+        ],
+        "summary": "Emerging leader with solid technical foundation. Strong focus on team development.",
+        "evaluation": {
+            "candidateId": 40,
+            "crisisManagementScore": 73.85,
+            "sustainabilityScore": 77.20,
+            "teamMotivationScore": 79.60
+        },
+        "totalScore": 76.74,
+        "rank": 40
+    }
+]

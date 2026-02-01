@@ -1,0 +1,136 @@
+/* Global Styles for Recycling Manager Dashboard */
+
+:root {
+  --gradient-primary: linear-gradient(135deg, #1a1b1e 0%, #25262b 100%);
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--gradient-primary);
+  min-height: 100vh;
+}
+
+.app-container {
+  min-height: 100vh;
+  padding-bottom: 2rem;
+}
+
+/* Header Styles */
+.header {
+  background: linear-gradient(180deg, rgba(32, 201, 151, 0.1) 0%, transparent 100%);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.header-title {
+  background: linear-gradient(135deg, #20c997 0%, #12b886 50%, #099268 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+/* Card hover effects */
+.mantine-Card-root {
+  background: var(--glass-bg) !important;
+  border: 1px solid var(--glass-border) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.mantine-Card-root:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(32, 201, 151, 0.1);
+}
+
+/* Table row hover */
+.mantine-Table-tr {
+  transition: background-color 0.15s ease;
+}
+
+.mantine-Table-tr:hover {
+  background-color: rgba(32, 201, 151, 0.05) !important;
+}
+
+/* Heatmap row hover */
+.heatmap-row:hover {
+  background-color: rgba(32, 201, 151, 0.1);
+}
+
+/* Progress bar animations */
+.mantine-Progress-section {
+  transition: width 0.3s ease;
+}
+
+/* Badge hover effects */
+.mantine-Badge-root {
+  transition: transform 0.15s ease;
+}
+
+.mantine-Badge-root:hover {
+  transform: scale(1.05);
+}
+
+/* Stats footer */
+.stats-footer {
+  background: var(--glass-bg);
+  border-radius: 12px;
+  border: 1px solid var(--glass-border);
+}
+
+/* Modal styling */
+.mantine-Modal-content {
+  background: linear-gradient(180deg, #1a1b1e 0%, #25262b 100%) !important;
+  border: 1px solid var(--glass-border) !important;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .header-title {
+    font-size: 1.5rem !important;
+  }
+  
+  .mantine-Table-root {
+    font-size: 0.85rem;
+  }
+}
+
+/* Animation for rank badges */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.mantine-Badge-root[data-variant="filled"] {
+  animation: pulse 2s infinite;
+}
